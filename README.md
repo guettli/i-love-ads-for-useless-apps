@@ -25,9 +25,10 @@ That's why I love ads for useless apps.
 
 I predict that the perception of the term "app" will change.
 
-Please keep on advertising for useless apps. Then people will begin to dislike apps.
+Please keep on advertising for useless apps. Then people will begin to dislike apps, and they will
+get back to the one and only universal platform **the web**.
 
-And this gets us web developers closer to our goal: Make the web attractive.
+Ads for useless apps get us web developers closer to our goal: Make the web attractive.
 
 The web should be great for consumers and for producers.
 
