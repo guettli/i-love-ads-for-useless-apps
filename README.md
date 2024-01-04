@@ -1,43 +1,29 @@
-# I love ads for useless apps
+# I Love Ads for Useless Apps
 
-When I take off my software development glasses and look at the world as an average consumer, this is what I think about the word "app":
+When I remove my software development glasses and look at the world as an average consumer, this is how I perceive the word "app":
 
-> An "app" is a small handy application which I install on my mobile phone. I these apps: Calendar, Contacts, WhatsApp, Twitter, Reddit, Maps, ...
+> An "app" is a small, handy application that I install on my mobile phone. I use these apps: Calendar, Contacts, WhatsApp, Twitter, Reddit, Maps, etc.
 
+However, when I put on my software development glasses, my perspective shifts:
 
+> Most apps are useless. There are useful apps, but the majority could simply be websites. Useful apps are those which provide offline capabilities. Apps that don't work offline could typically be implemented through traditional web development.
 
-When I put on my software development glasses, I think the following:
+**I Love Ads for Useless Apps**
 
-> Most apps are useless. There are usefull apps, but most apps could be a website. Usefull apps are apps which provide offline capabilities.
-> But apps which don't work while I am offline could be implemented via traditional web development.
+I believe that as of today, January 2024, most people think of a useful, handy application when they hear the term "app." I predict this perception will change.
 
+Apps are ubiquitous today: my grocery store, my health insurance provider, my favorite radio station - they all want me to install their app. I don't want to!
 
-**I love ads for useless apps**
+That's precisely why I love ads for useless apps. They contribute to changing the public perception of apps.
 
-I guess that today (January 2024), most people think about a usefull handy application if they hear the term "app".
+Keep advertising useless apps, please. This will lead people to begin disliking the overload of apps.
 
-I predict that this will change.
+This shift benefits us web developers aiming to make the web more attractive: a great platform for both consumers and producers.
 
-Apps are everywhere today: my grocery store, my health insurance provider, my favorite radio station, ...
+Just wait a few years, and this undue hype about apps will fade, bringing the web back into focus.
 
-They all want me to install an app.
+This change will likely make overly complicated web development frameworks (like React, Vue, Svelte) less attractive and pave the way for straightforward frameworks like [htmx.org](//htmx.org).
 
-I don't want that!
-
-That's why I love ads for useless apps.
-
-I predict that the perception of the term "app" will change.
-
-Please keep on advertising for useless apps. Then people will begin to dislike apps.
-
-And this gets us web develop closer to our goal: Make the web attractive.
-
-The web should be great for consumers and for producers.
-
-Just wait some years and this useless hype about apps will disappear, and the web will gain more traction again.
-
-And this will make way too complicated web development frameworks (react, vue, svelte) less attractive, and straight-forward frameworks like [htmx.org](//htmx.org) more attractive.
-
-Let's wait and see. 
+Let's wait and see.
 
 Have fun!
