@@ -39,3 +39,15 @@ And this will make way too complicated web development frameworks (React, Vue, S
 Let's wait and see.
 
 Have fun!
+
+
+# Related
+
+* [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
+
+# Feedback
+
+I love feedback and I love to hear from you. Just create an issue and tell me what's on your mind.
+
+
+
